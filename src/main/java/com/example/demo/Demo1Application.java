@@ -8,6 +8,7 @@ public class Demo1Application {
 
 	public static void main(String[] args) {
 		System.out.println("Test..Welcome");
+		System.out.println("Commit to sushmita brach only");
 		SpringApplication.run(Demo1Application.class, args);
 	}
 
