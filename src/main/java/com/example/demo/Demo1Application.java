@@ -7,8 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Demo1Application {
 
 	public static void main(String[] args) {
-		System.out.println("Test..Welcome");
-		System.out.println("Commit to sushmita brach only");
+		System.out.println("Test..Welcome--updated-3/6-master");
+		System.out.println("Commit to master");
 		SpringApplication.run(Demo1Application.class, args);
 	}
 
